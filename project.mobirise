@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1052,13 +1052,13 @@
             },
             ".mbr-section-lead": {
               "color": "#000000",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             },
             ".mbr-section-title I": {
               "color": "#000000",
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
+              "font-family": "'Montserrat', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
             }
           },
           "_tags": [
@@ -1070,7 +1070,7 @@
             "parallax": true,
             "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/5-2000x1108-90.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/instagramreactionsondandelionwineleaflet-2000x1473-18.jpg",
             "bgColor": "#efefef",
             "bgColorRadio": false,
             "bgVideo": {
@@ -1080,7 +1080,7 @@
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.1",
+            "overlayOpacity": "0.7",
             "overlayColor": "#ffffff",
             "contentAlign": "left",
             "showTitle": true,
@@ -1088,7 +1088,7 @@
             "showButtons": false
           },
           "title": "<font color=\"#ff0505\"><i>thomas renwart</i></font>",
-          "text": "<br><br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>Born and raised in the midst of beautiful gardens, making it easy to create my own little world, I always wanted to do something more. To create and to make a world of my own but to share it with the world. Textiles as a starting point, in order to re-create that wish, one starts with something and ends up with an entire landscape.&nbsp;<br><br><br><br>",
+          "text": "<br><br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>Born and raised in the midst<span style=\"font-style: normal;\"> of</span> beautiful gardens, making it easy to create my own little world, I always wanted to do something more. To create and to make a world of my own but to share it with the world. Textiles as a starting point, in order to re-create that wish, one starts with something and ends up with an entire landscape.&nbsp;<br><br><br><br>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
         }
       ]
