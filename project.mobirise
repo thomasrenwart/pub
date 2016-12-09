@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -46,7 +46,7 @@
               "color": "#b8312f"
             },
             ".mbr-section-title": {
-              "color": "#ffffff",
+              "color": "#ff0505",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-size": "60px"
@@ -63,11 +63,11 @@
           "_anchor": "header1-1",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": false,
             "bgImage": "@PROJECT_PATH@/assets/images/p1000223-2000x1500-22.jpg",
             "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColorRadio": true,
             "bgVideo": {
               "width": 1280,
               "height": 720,
@@ -112,13 +112,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -141,7 +141,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -167,7 +167,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -222,17 +222,17 @@
           "_anchor": "header5-a",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1050211grenouille2-2000x1500-70.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/1-2000x1126-12.jpg",
+            "bgColor": "#fac51c",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": 0.5,
+            "overlayOpacity": "0.5",
             "overlayColor": "#000",
             "contentAlign": "left",
             "showTitle": true,
@@ -269,13 +269,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -298,7 +298,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -324,7 +324,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -452,8 +452,8 @@
             "parallax": true,
             "bgImageRadio": false,
             "showArrow": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#000000",
+            "bgImage": "@PROJECT_PATH@/assets/images/u-34-12053067059-90487375-o-2000x961-37.jpg",
+            "bgColor": "#00a885",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
@@ -648,7 +648,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -762,7 +762,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -808,11 +808,11 @@
           "_anchor": "header5-u",
           "_params": {
             "parallax": true,
-            "bgImageRadio": true,
+            "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/dsc-2249-2000x1329-15.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": false,
+            "bgColor": "#2969b0",
+            "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
@@ -963,13 +963,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -992,7 +992,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1018,7 +1018,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#ffffff",
+            "fontColor": "#000000",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
