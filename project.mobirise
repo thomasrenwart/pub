@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "other works.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1056,7 +1056,7 @@
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             },
             ".mbr-section-title I": {
-              "color": "#ff0505",
+              "color": "#000000",
               "font-family": "'Slabo 27px', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
             }
@@ -1068,17 +1068,19 @@
           "_anchor": "header5-y",
           "_params": {
             "parallax": true,
-            "bgImageRadio": false,
+            "bgImageRadio": true,
             "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/u-34-12053067059-90487375-o-2000x961-39.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/5-2000x1108-90.jpg",
             "bgColor": "#efefef",
-            "bgColorRadio": true,
+            "bgColorRadio": false,
             "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+              "width": 1280,
+              "height": 720,
+              "url": ""
             },
             "bgVideoRadio": false,
             "overlay": true,
-            "overlayOpacity": "0.7",
+            "overlayOpacity": "0.1",
             "overlayColor": "#ffffff",
             "contentAlign": "left",
             "showTitle": true,
