@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "other works.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -31,7 +31,7 @@
       "settings": {
         "main": true,
         "title": "",
-        "meta_descr": "",
+        "meta_descr": "thomas, renwart, homepage, ",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -197,7 +197,7 @@
     },
     "textile works.html": {
       "settings": {
-        "meta_descr": "",
+        "meta_descr": "thomas, renwart, textiel, textile, works, 2016, LUCA, school, of, arts",
         "title": "",
         "order": 2
       },
@@ -371,26 +371,6 @@
                 "active": false
               },
               {
-                "tags": "Responsive",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1050234-2000x2394-87-2000x2394-44.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050234-2000x2394-87.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Creative",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/p1050264-2000x1920-40-2000x1920-54.jpg",
-                "image": "@PROJECT_PATH@/assets/images/p1050264-2000x1920-40.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -408,6 +388,26 @@
                 "thumb": "@PROJECT_PATH@/assets/images/13466431-1743326982611331-1231793045605017121-n-2000x1500-7-2000x1500-31.jpg",
                 "image": "@PROJECT_PATH@/assets/images/13466431-1743326982611331-1231793045605017121-n-2000x1500-7.jpg",
                 "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050050-2000x2693-44-2000x2693-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050050-2000x2693-44.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050050-2000x2693-44-2000x2693-50.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050050-2000x2693-44.jpg",
+                "caption": "",
                 "active": true
               }
             ],
@@ -593,13 +593,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -622,7 +622,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -678,7 +678,8 @@
     },
     "other works.html": {
       "settings": {
-        "order": 5
+        "order": 5,
+        "meta_descr": "thomas, renwart, other, works, andere, werken, 2016, 2017, LUCA, school, of, arts"
       },
       "components": [
         {
@@ -707,13 +708,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#000000"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#000000"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#000000",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -736,7 +737,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#000000",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
