@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "textileworks.html",
+    "currentPage": "aboutme.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 64,
+    "uniqCompNum": 65,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -328,6 +328,74 @@
           "title": "Thomas Renwart",
           "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>My work mainly consists of series of three, four or more. Repetition is an important part since I'm always looking for the beauty of differences. Textiles combined with photos, scans, writings and sculptures are the most common chapters of my always growing portfolio.",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_inherit": "msg-box5",
+          "_styles": {
+            ".mbr-section-title, .lead p": {
+              "color": "#fff"
+            },
+            "H3": {
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#000000"
+            },
+            "I": {
+              "text-align": "right"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "msg-box6",
+          "_anchor": "msg-box6-1s",
+          "_params": {
+            "imageSize": "48",
+            "paddingTop": "3",
+            "paddingBottom": "3",
+            "parallax": true,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#cccccc",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "inverse": true,
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/1g763y.gif",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 250
+            }
+          },
+          "title": "different similarities",
+          "text": "40 oak leaves - 1 oak tree.<br><i>ongoing project&nbsp;</i>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
     },
@@ -370,7 +438,7 @@
             "overlay": false,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -563,7 +631,7 @@
             "overlay": true,
             "overlayOpacity": "0.5",
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
@@ -834,7 +902,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/1g763y.gif",
+              "src": "@PROJECT_PATH@/assets/images/1g763y0.gif",
               "link": "",
               "alt": "",
               "title": "",
@@ -986,7 +1054,7 @@
             "overlay": true,
             "overlayOpacity": 0.5,
             "overlayColor": "#000",
-            "contentAlign": "left",
+            "contentAlign": "center",
             "showTitle": true,
             "showText": true,
             "showButtons": false
