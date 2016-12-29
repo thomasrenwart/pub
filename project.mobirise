@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "botanical study drawings.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 35,
+    "uniqCompNum": 37,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -713,51 +713,62 @@
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">&nbsp; &nbsp; &nbsp; &nbsp;about me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
-          "_inherit": "header1",
-          "_styles": {
-            ".mbr-section-title": {
-              "color": "#000"
-            },
-            ".mbr-section-lead": {
-              "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            },
-            ".mbr-section-title I": {
-              "color": "#000000",
-              "font-family": "'Montserrat', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700"
-            }
-          },
           "_tags": [
             "Theme"
           ],
-          "_name": "header5",
-          "_anchor": "header5-y",
+          "_name": "msg-box5",
+          "_anchor": "msg-box5-10",
           "_params": {
+            "imageSize": 50,
+            "paddingTop": 0,
+            "paddingBottom": 0,
             "parallax": true,
-            "bgImageRadio": true,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/instagramreactionsondandelionwineleaflet-2000x1473-18.jpg",
-            "bgColor": "#efefef",
-            "bgColorRadio": false,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
             "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": ""
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
             },
             "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.7",
-            "overlayColor": "#ffffff",
-            "contentAlign": "left",
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#fff",
+            "inverse": false,
             "showTitle": true,
             "showText": true,
             "showButtons": false
           },
-          "title": "<font color=\"#ff0505\"><i>thomas renwart</i></font>",
-          "text": "<br><br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>Born and raised in the midst<span style=\"font-style: normal;\"> of</span> beautiful gardens, making it easy to create my own little world, I always wanted to do something more. To create and to make a world of my own but to share it with the world. Textiles as a starting point, in order to re-create that wish, one starts with something and ends up with an entire landscape.&nbsp;<br><br><br><br>",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NOW</a>"
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/ke-1400x1433-97.jpg",
+              "link": "index.html",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "video": {
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U",
+              "aspectratio": "16:9",
+              "autoplay": false,
+              "loop": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-msg-box5",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "Thomas Renwart",
+          "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>My work mainly consists of series of three, four or more. Repetition is an important part since I'm always looking for the beauty of differences. Textiles combined with photos, scans, writings and sculptures are the most common chapters of my always growing portfolio.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
+          "_styles": {
+            "H3": {
+              "color": "#fa0303"
+            }
+          }
         }
       ]
     },

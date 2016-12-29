@@ -638,8 +638,6 @@ h6,
   color: #9c9a9a;
 }
 
-
-
 #menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -702,16 +700,8 @@ h6,
 #menu-w .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
-#header5-y .mbr-section-title {
-  color: #000;
-}
-#header5-y .mbr-section-lead {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
-}
-#header5-y .mbr-section-title I {
-  color: #000000;
-  font-family: 'Montserrat', sans-serif;
+#msg-box5-10 H3 {
+  color: #fa0303;
 }
 
 
