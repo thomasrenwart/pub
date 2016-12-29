@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "botanicalstudydrawings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -490,13 +490,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fa0806"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fa0806"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#fa0806",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -519,7 +519,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fa0806",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
