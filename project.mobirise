@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "dancingwillows.html",
+    "currentPage": "index.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 57,
+    "uniqCompNum": 60,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -82,7 +82,7 @@
           },
           "title": "thomas renwart<br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textile works.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">botanical study drawings</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"dancingwillows.html\" data-toolbar=\"-mbrBtnMove\">dancing willows</a>     "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textile works.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">botanical study drawings</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"dancingwillows.html\" data-toolbar=\"-mbrBtnMove\">dancing willows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"writings.html\" data-toolbar=\"-mbrBtnMove\">writings</a>     "
         },
         {
           "_styles": {
@@ -178,7 +178,7 @@
     },
     "aboutme.html": {
       "settings": {
-        "order": 7
+        "order": 6
       },
       "components": [
         {
@@ -333,7 +333,7 @@
     },
     "botanicalstudydrawings.html": {
       "settings": {
-        "order": 5,
+        "order": 3,
         "title": "Botanical Study Drawings",
         "meta_descr": "thomas, renwart, botanical, study, drawings"
       },
@@ -792,7 +792,7 @@
     },
     "dancingwillows.html": {
       "settings": {
-        "order": 6,
+        "order": 4,
         "meta_descr": "thomas, renwart, other, works, andere, werken, 2016, 2017, LUCA, school, of, arts"
       },
       "components": [
@@ -977,6 +977,176 @@
             "showBullets": true
           },
           "_anchor": "gallery2-1k",
+          "articleLayout": false,
+          "allItem": "All"
+        }
+      ]
+    },
+    "writings.html": {
+      "settings": {
+        "order": 5,
+        "title": "Writings"
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff"
+            },
+            ".navbar-toggler": {
+              "color": "#fa0806"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#fa0806"
+            },
+            ".link, .dropdown-item": {
+              "color": "#fa0806",
+              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "font-family": "'Merriweather', serif"
+            },
+            ".link": {
+              "font-size": "0.6rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.650rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#e6e6e6"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#f7f7f7!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#ffffff"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#fa0806",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_anchor": "menu-1l",
+          "_params": {
+            "bgColor": "#ffffff",
+            "fontSize": "0.6",
+            "fontName": {
+              "name": "Merriweather",
+              "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
+              "css": "'Merriweather', serif"
+            },
+            "fontColor": "#fa0806",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": false,
+            "logo": false,
+            "showBrand": false,
+            "collapsed": true,
+            "hideButtons": true
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@THEME_PATH@/components/_images/logo.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com"
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">&nbsp; &nbsp; &nbsp; &nbsp;about me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-1m",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#000000",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": false,
+            "showButtons": false
+          },
+          "title": "Writings",
+          "text": "Click any text to edit or style it. Click blue \"Gear\" icon in the top right corner to hide/show buttons, text, title and change the block background. <br> Click red \"+\" in the bottom right corner to add a new block. Use the top left menu to create new pages, sites and add extensions.",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/writing1-2000x2749-55-800x1099-28.jpg",
+                "image": "@PROJECT_PATH@/assets/images/writing1-2000x2749-55.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/writing2-2000x2749-74-800x1099-86.jpg",
+                "image": "@PROJECT_PATH@/assets/images/writing2-2000x2749-74.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1n",
           "articleLayout": false,
           "allItem": "All"
         }
