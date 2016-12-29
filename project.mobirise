@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "otherworks.html",
+    "currentPage": "aboutme.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 43,
+    "uniqCompNum": 57,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -82,7 +82,7 @@
           },
           "title": "thomas renwart<br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textile works.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">botanical study drawings</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"other works.html\" data-toolbar=\"-mbrBtnMove\">other works</a>   "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textile works.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">botanical study drawings</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"dancingwillows.html\" data-toolbar=\"-mbrBtnMove\">dancing willows</a>     "
         },
         {
           "_name": "footer1",
@@ -195,7 +195,7 @@
     },
     "aboutme.html": {
       "settings": {
-        "order": 6
+        "order": 7
       },
       "components": [
         {
@@ -224,13 +224,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fa0806"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fa0806"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#fa0806",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -253,7 +253,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fa0806",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -310,6 +310,11 @@
             "Theme"
           ],
           "_name": "msg-box5",
+          "_styles": {
+            "H3": {
+              "color": "#fa0303"
+            }
+          },
           "_anchor": "msg-box5-10",
           "_params": {
             "imageSize": 50,
@@ -356,18 +361,13 @@
           },
           "title": "Thomas Renwart",
           "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>My work mainly consists of series of three, four or more. Repetition is an important part since I'm always looking for the beauty of differences. Textiles combined with photos, scans, writings and sculptures are the most common chapters of my always growing portfolio.",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>",
-          "_styles": {
-            "H3": {
-              "color": "#fa0303"
-            }
-          }
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         }
       ]
     },
     "botanicalstudydrawings.html": {
       "settings": {
-        "order": 3,
+        "order": 5,
         "title": "Botanical Study Drawings",
         "meta_descr": "thomas, renwart, botanical, study, drawings"
       },
@@ -649,13 +649,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#ffffff"
+              "color": "#fa0806"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#ffffff"
+              "background-color": "#fa0806"
             },
             ".link, .dropdown-item": {
-              "color": "#ffffff",
+              "color": "#fa0806",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -678,7 +678,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#ffffff",
+              "color": "#fa0806",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -808,8 +808,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/willow-1-2000x2749-13-800x1099-90.jpg",
-                "image": "@PROJECT_PATH@/assets/images/willow-1-2000x2749-13.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/willow-1-2000x2749-61-800x1099-94.jpg",
+                "image": "@PROJECT_PATH@/assets/images/willow-1-2000x2749-61.jpg",
                 "caption": "",
                 "active": false
               },
@@ -818,8 +818,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/willow-2-2000x2749-26-800x1099-71.jpg",
-                "image": "@PROJECT_PATH@/assets/images/willow-2-2000x2749-26.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/willow-2-2000x2749-27-800x1099-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/willow-2-2000x2749-27.jpg",
                 "caption": "",
                 "active": false
               },
@@ -828,8 +828,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/willow-3-2000x2749-26-800x1099-22.jpg",
-                "image": "@PROJECT_PATH@/assets/images/willow-3-2000x2749-26.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/willow-3-2000x2749-9-800x1099-96.jpg",
+                "image": "@PROJECT_PATH@/assets/images/willow-3-2000x2749-9.jpg",
                 "caption": "",
                 "active": false
               },
@@ -838,8 +838,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/willow-4-2000x2749-6-800x1099-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/willow-4-2000x2749-6.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/willow-4-2000x2749-47-800x1099-65.jpg",
+                "image": "@PROJECT_PATH@/assets/images/willow-4-2000x2749-47.jpg",
                 "caption": "",
                 "active": true
               }
@@ -852,35 +852,18 @@
             "fullWidth": true,
             "showBullets": true
           },
-          "_anchor": "gallery2-12",
+          "_anchor": "gallery2-18",
           "articleLayout": false,
           "allItem": "All"
         }
       ]
     },
-    "otherworks.html": {
+    "dancingwillows.html": {
       "settings": {
-        "order": 5,
+        "order": 6,
         "meta_descr": "thomas, renwart, other, works, andere, werken, 2016, 2017, LUCA, school, of, arts"
       },
       "components": [
-        {
-          "_name": "footer1",
-          "_anchor": "footer1-6",
-          "_params": {
-            "paddingTop": 2,
-            "paddingBottom": 2,
-            "bgImageRadio": false,
-            "parallax": true,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "bgColor": "#323232",
-            "bgColorRadio": true,
-            "overlay": true,
-            "overlayOpacity": 0.8,
-            "overlayColor": "#444444"
-          },
-          "text": "Copyright (c) 2016 Mobirise."
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -1008,9 +991,62 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "other works<br><i>under construction</i>",
+          "title": "<i>dancing willows</i>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NO</a>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dancingwillow1-2000x2749-41-800x1099-18.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dancingwillow1-2000x2749-41.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dancingwillow2-2000x2749-46-800x1099-19.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dancingwillow2-2000x2749-46.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/dancingwillow3-2000x2749-22-800x1099-51.jpg",
+                "image": "@PROJECT_PATH@/assets/images/dancingwillow3-2000x2749-22.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1k",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     }
