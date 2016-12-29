@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "page6.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1285,7 +1285,10 @@
               "color": "#fff"
             },
             "H3": {
-              "color": "#000000"
+              "color": "#ffffff"
+            },
+            "P": {
+              "color": "#ffffff"
             }
           },
           "_tags": [
@@ -1294,12 +1297,12 @@
           "_name": "msg-box6",
           "_anchor": "msg-box6-1q",
           "_params": {
-            "imageSize": "33",
+            "imageSize": "32",
             "paddingTop": "3",
             "paddingBottom": "3",
             "parallax": true,
             "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgImage": "@PROJECT_PATH@/assets/images/1g763y.gif",
             "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
