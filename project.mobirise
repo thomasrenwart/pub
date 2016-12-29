@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "page4.html",
+    "currentPage": "botanical study drawings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -800,7 +800,7 @@
             "bgImageRadio": false,
             "showArrow": true,
             "bgImage": "@PROJECT_PATH@/assets/images/u-34-12053067059-90487375-o-2000x961-37.jpg",
-            "bgColor": "#00a885",
+            "bgColor": "#000000",
             "bgColorRadio": true,
             "bgVideo": {
               "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
