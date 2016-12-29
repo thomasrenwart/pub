@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "botanical study drawings.html",
+    "currentPage": "page4.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -165,7 +165,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -322,7 +322,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -500,7 +500,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -631,13 +631,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -660,7 +660,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -686,7 +686,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -887,13 +887,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#ffffff"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#ffffff",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "font-family": "'Merriweather', serif"
             },
@@ -916,7 +916,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#ffffff",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -942,7 +942,7 @@
               "url": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
               "css": "'Merriweather', serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,

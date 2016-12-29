@@ -645,15 +645,15 @@ h6,
   color: #ffffff;
 }
 #menu-w .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-w .close-icon::before,
 #menu-w .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-w .link,
 #menu-w .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Merriweather', serif;
 }
 #menu-w .link {
@@ -686,7 +686,7 @@ h6,
   background: #ffffff;
 }
 #menu-w .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-w .bg-color.transparent.opened .link {
@@ -720,15 +720,15 @@ h6,
   color: #ffffff;
 }
 #menu-7 .navbar-toggler {
-  color: #000000;
+  color: #ffffff;
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
-  background-color: #000000;
+  background-color: #ffffff;
 }
 #menu-7 .link,
 #menu-7 .dropdown-item {
-  color: #000000;
+  color: #ffffff;
   font-family: 'Merriweather', serif;
 }
 #menu-7 .link {
@@ -761,7 +761,7 @@ h6,
   background: #ffffff;
 }
 #menu-7 .bg-color.transparent .link {
-  color: #000000;
+  color: #ffffff;
   transition: none;
 }
 #menu-7 .bg-color.transparent.opened .link {
