@@ -708,10 +708,13 @@ h6,
   color: #fff;
 }
 #msg-box6-1r H3 {
-  color: #000000;
+  color: #ffffff;
 }
 #msg-box6-1r P {
   color: #000000;
+}
+#msg-box6-1r I {
+  text-align: right;
 }
 
 

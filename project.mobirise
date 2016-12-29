@@ -795,10 +795,13 @@
               "color": "#fff"
             },
             "H3": {
-              "color": "#000000"
+              "color": "#ffffff"
             },
             "P": {
               "color": "#000000"
+            },
+            "I": {
+              "text-align": "right"
             }
           },
           "_tags": [
@@ -850,7 +853,7 @@
             }
           },
           "title": "different similarities",
-          "text": "40 oak leaves - 1 oak tree.<br><i>ongoing project</i>",
+          "text": "40 oak leaves - 1 oak tree.<br><i>ongoing project&nbsp;</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\">MORE</a>"
         }
       ]
