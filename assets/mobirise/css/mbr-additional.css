@@ -703,6 +703,16 @@ h6,
 #menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#msg-box6-1r .mbr-section-title,
+#msg-box6-1r .lead p {
+  color: #fff;
+}
+#msg-box6-1r H3 {
+  color: #000000;
+}
+#msg-box6-1r P {
+  color: #000000;
+}
 
 
 #menu-7 .hide-buttons .nav-btn {
