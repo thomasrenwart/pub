@@ -47,7 +47,7 @@
               "color": "#ff0505",
               "font-family": "'Merriweather', serif",
               "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-size": "60px"
+              "font-size": "80px"
             },
             ".btn": {
               "font-family": "'Slabo 27px', serif",
