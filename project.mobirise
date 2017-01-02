@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "aboutme.html",
+    "currentPage": "botanicalstudydrawings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -82,7 +82,7 @@
           },
           "title": "thomas renwart<br><br>",
           "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textile works.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">botanical study drawings</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"dancingwillows.html\" data-toolbar=\"-mbrBtnMove\">dancing willows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"writings.html\" data-toolbar=\"-mbrBtnMove\">writings</a>      "
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textile works.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">drawings</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"dancingwillows.html\" data-toolbar=\"-mbrBtnMove\">dancing willows</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"writings.html\" data-toolbar=\"-mbrBtnMove\">writings</a>      "
         },
         {
           "_styles": {
@@ -284,8 +284,8 @@
           "_anchor": "msg-box5-10",
           "_params": {
             "imageSize": "68",
-            "paddingTop": "0",
-            "paddingBottom": "0",
+            "paddingTop": "7",
+            "paddingBottom": "7",
             "parallax": true,
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
@@ -375,7 +375,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "botanical study drawings<br><br>",
+          "title": "drawings<br><br>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD NO</a>"
         },
