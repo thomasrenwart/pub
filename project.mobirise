@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "botanicalstudydrawings.html",
+    "currentPage": "writings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 65,
+    "uniqCompNum": 66,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -1206,12 +1206,12 @@
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "5",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
           "_anchor": "gallery2-1n",
@@ -1233,31 +1233,31 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/writings3-2000x2666-95-800x1066-13.jpg",
-                "image": "@PROJECT_PATH@/assets/images/writings3-2000x2666-95.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/pinson-2000x2691-51-800x1076-21.jpg",
+                "image": "@PROJECT_PATH@/assets/images/pinson-2000x2691-51.jpg",
                 "caption": "Type caption here",
-                "active": false
+                "active": true
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/writings4-2000x2744-98-800x1097-30.jpg",
-                "image": "@PROJECT_PATH@/assets/images/writings4-2000x2744-98.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/ei-2000x1355-69-800x542-71.jpg",
+                "image": "@PROJECT_PATH@/assets/images/ei-2000x1355-69.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               }
             ],
-            "spacing": "1",
+            "spacing": "5",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
             "filterBgColor": false,
-            "fullWidth": true,
+            "fullWidth": false,
             "showBullets": true
           },
-          "_anchor": "gallery2-1o",
+          "_anchor": "gallery2-1t",
           "articleLayout": false,
           "allItem": "All"
         }
