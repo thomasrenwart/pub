@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "writings.html",
+    "currentPage": "dancingwillows.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 66,
+    "uniqCompNum": 67,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -420,7 +420,7 @@
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "5",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -521,6 +521,69 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home&nbsp;</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"page4.html\">&nbsp; &nbsp; &nbsp; &nbsp;about me</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire1-2000x2749-69-800x1099-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire1-2000x2749-69.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire2-2000x2749-43-800x1099-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire2-2000x2749-43.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire3-2000x2749-65-800x1099-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire3-2000x2749-65.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire4-2000x2749-22-800x1099-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire4-2000x2749-22.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "5",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-1u",
+          "articleLayout": false,
+          "allItem": "All"
         }
       ]
     },
@@ -713,7 +776,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "5",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -776,7 +839,7 @@
                 "active": true
               }
             ],
-            "spacing": "2",
+            "spacing": "5",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -1036,7 +1099,7 @@
                 "active": true
               }
             ],
-            "spacing": "1",
+            "spacing": "5",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -1233,20 +1296,40 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/pinson-2000x2691-51-800x1076-21.jpg",
-                "image": "@PROJECT_PATH@/assets/images/pinson-2000x2691-51.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire1-2000x2749-69-800x1099-80.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire1-2000x2749-69.jpg",
                 "caption": "Type caption here",
-                "active": true
+                "active": false
               },
               {
                 "tags": "Animated",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/ei-2000x1355-69-800x542-71.jpg",
-                "image": "@PROJECT_PATH@/assets/images/ei-2000x1355-69.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire2-2000x2749-43-800x1099-88.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire2-2000x2749-43.jpg",
                 "caption": "Type caption here",
                 "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire3-2000x2749-65-800x1099-79.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire3-2000x2749-65.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/poire4-2000x2749-22-800x1099-57.jpg",
+                "image": "@PROJECT_PATH@/assets/images/poire4-2000x2749-22.jpg",
+                "caption": "Type caption here",
+                "active": true
               }
             ],
             "spacing": "5",
