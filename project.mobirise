@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "aboutme.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 73,
+    "uniqCompNum": 74,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -326,8 +326,23 @@
             }
           },
           "title": "Thomas Renwart",
-          "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>My work mainly consists of series of three, four or more. Repetition is an important part since I'm always looking for the beauty of differences. Textiles combined with photos, scans, writings and sculptures are the most common chapters of my always growing portfolio.",
+          "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>My work mainly consists of series of three, four or more. Repetition is an important part since I'm always looking for the beauty of differences. Textiles combined with photos, scans, writings and sculptures are the most common chapters of my always growing portfolio.<br><br><i>Scroll down for a list of expo's and publications.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content7",
+          "_anchor": "content7-21",
+          "_params": {
+            "paddingTop": 1,
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text1": "Expo's &amp; publications&nbsp;",
+          "text2": "<p>Expo's<br><br></p><p><b>2016</b><br>- KUNSTzINigAALTER, <i>Poeke Castle</i><br>- Kan een zin de titel zijn? <i>In de ruimte, Gent</i></p><p><i><br></i></p><p><b>2017</b></p><p>- pending, <i>more info soon</i></p>",
+          "text3": "<p>Publications</p><p><br></p><p><b>2014</b></p><p>- *<i>Verdwalen in het bet van alfa</i>*<br>Poetry publication, PoemTata Gent</p><p><br></p><p><br></p>"
         }
       ]
     },
