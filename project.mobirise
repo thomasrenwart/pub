@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "publications.html",
+    "currentPage": "textileworks.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -865,49 +865,6 @@
             "showBullets": true
           },
           "_anchor": "gallery2-18",
-          "articleLayout": false,
-          "allItem": "All"
-        },
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/remnants1-2000x2742-4-800x1096-51.jpg",
-                "image": "@PROJECT_PATH@/assets/images/remnants1-2000x2742-4.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/remnants2-2000x2754-12-800x1101-43.jpg",
-                "image": "@PROJECT_PATH@/assets/images/remnants2-2000x2754-12.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "4",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-22",
           "articleLayout": false,
           "allItem": "All"
         }
