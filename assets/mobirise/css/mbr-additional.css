@@ -641,6 +641,13 @@ h6,
 #header5-a .mbr-section-lead {
   color: #9c9a9a;
 }
+#msg-box6-26 .mbr-section-title,
+#msg-box6-26 .lead p {
+  color: #fff;
+}
+#msg-box6-26 H3 {
+  color: #000000;
+}
 #menu-7 .hide-buttons .nav-btn {
   display: none !important;
 }
