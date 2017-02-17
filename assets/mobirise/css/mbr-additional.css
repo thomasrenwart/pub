@@ -1,8 +1,13 @@
-@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
 @import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
+
 
 
 
@@ -421,15 +426,28 @@ h6,
   color: #b8312f;
 }
 #header1-1 .mbr-section-title {
-  color: #ff0505;
-  font-family: 'Merriweather', serif;
-  font-size: 80px;
+  color: #28324e;
+  font-family: 'Droid Serif', serif;
+  font-size: 36px;
+  text-align: left;
 }
 #header1-1 .btn {
   font-family: 'Slabo 27px', serif;
 }
 #header1-1 .mbr-section-title I {
-  font-family: 'Lora', serif;
+  font-family: 'PT Serif', serif;
+  color: #000000;
+  text-align: center;
+}
+#header1-1 .mbr-section-title SPAN {
+  font-family: 'Open Sans Condensed', sans-serif;
+  font-size: 48px;
+  text-align: right;
+}
+#header1-1 .mbr-section-title P {
+  text-align: center;
+  font-size: 30px;
+  color: #000000;
 }
 #menu-w .hide-buttons .nav-btn {
   display: none !important;
@@ -438,23 +456,23 @@ h6,
   color: #ffffff;
 }
 #menu-w .navbar-toggler {
-  color: #fa0806;
+  color: #000000;
 }
 #menu-w .close-icon::before,
 #menu-w .close-icon::after {
-  background-color: #fa0806;
+  background-color: #000000;
 }
 #menu-w .link,
 #menu-w .dropdown-item {
-  color: #fa0806;
-  font-family: 'Merriweather', serif;
+  color: #000000;
+  font-family: 'Open Sans', sans-serif;
 }
 #menu-w .link {
-  font-size: 0.6rem;
+  font-size: 1.3rem;
 }
 #menu-w .dropdown-item,
 #menu-w .nav-dropdown-sm .link {
-  font-size: 0.650rem;
+  font-size: 1.408rem;
 }
 #menu-w .link:hover,
 #menu-w .dropdown-item:hover,
@@ -479,7 +497,7 @@ h6,
   background: #ffffff;
 }
 #menu-w .bg-color.transparent .link {
-  color: #fa0806;
+  color: #000000;
   transition: none;
 }
 #menu-w .bg-color.transparent.opened .link {
@@ -709,78 +727,6 @@ h6,
 #menu-7 .link[aria-expanded="true"],
 #menu-7 .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
-}
-
-
-#menu-7 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-7 .navbar-caption {
-  color: #ffffff;
-}
-#menu-7 .navbar-toggler {
-  color: #fa0806;
-}
-#menu-7 .close-icon::before,
-#menu-7 .close-icon::after {
-  background-color: #fa0806;
-}
-#menu-7 .link,
-#menu-7 .dropdown-item {
-  color: #fa0806;
-  font-family: 'Merriweather', serif;
-}
-#menu-7 .link {
-  font-size: 0.6rem;
-}
-#menu-7 .dropdown-item,
-#menu-7 .nav-dropdown-sm .link {
-  font-size: 0.650rem;
-}
-#menu-7 .link:hover,
-#menu-7 .dropdown-item:hover,
-#menu-7 .link:focus,
-#menu-7 .dropdown-item:focus {
-  color: #c0a375;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-menu {
-  background: #e6e6e6;
-}
-#menu-7 .nav-dropdown-sm .link:focus,
-#menu-7 .nav-dropdown-sm .link:hover,
-#menu-7 .nav-dropdown-sm .dropdown-item:focus,
-#menu-7 .nav-dropdown-sm .dropdown-item:hover {
-  background: #f7f7f7!important;
-}
-#menu-7 .navbar,
-#menu-7 .nav-dropdown-sm,
-#menu-7 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-7 .nav-dropdown-sm .dropdown-menu {
-  background: #ffffff;
-}
-#menu-7 .bg-color.transparent .link {
-  color: #fa0806;
-  transition: none;
-}
-#menu-7 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-7 .bg-color.transparent.opened .link:hover,
-#menu-7 .bg-color.transparent.opened .link:focus {
-  color: #c0a375;
-}
-#menu-7 .link[aria-expanded="true"],
-#menu-7 .dropdown-item[aria-expanded="true"] {
-  color: #c0a375!important;
-}
-#header5-u .mbr-section-title {
-  color: #ffffff;
-  font-family: 'Merriweather', serif;
-  text-align: center;
-}
-#header5-u .mbr-section-lead {
-  color: #9c9a9a;
 }
 
 #menu-1l .hide-buttons .nav-btn {
