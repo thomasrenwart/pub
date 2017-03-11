@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "botanicalstudydrawings.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       "settings": {
         "main": true,
         "title": "Thomas Renwart",
-        "meta_descr": "thomas, renwart, homepage, ",
+        "meta_descr": "Thomas Renwart homepage",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -340,63 +340,10 @@
     "botanicalstudydrawings.html": {
       "settings": {
         "order": 3,
-        "title": "Botanical Study Drawings",
+        "title": "Drawings",
         "meta_descr": "thomas, renwart, botanical, study, drawings"
       },
       "components": [
-        {
-          "_inherit": "gallery1",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "gallery2",
-          "_params": {
-            "paddingTop": 4,
-            "paddingBottom": 4,
-            "images": [
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bot1-2000x2749-26-2000x2749-60.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bot1-2000x2749-26.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/botanical2-2000x2749-35-2000x2749-24.jpg",
-                "image": "@PROJECT_PATH@/assets/images/botanical2-2000x2749-35.jpg",
-                "caption": "Type caption here",
-                "active": false
-              },
-              {
-                "tags": "Animated",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/bot3-2000x2749-2-800x1099-30.jpg",
-                "image": "@PROJECT_PATH@/assets/images/bot3-2000x2749-2.jpg",
-                "caption": "Type caption here",
-                "active": true
-              }
-            ],
-            "spacing": "5",
-            "showText": false,
-            "filter": false,
-            "bgColor": "fff",
-            "filterBgColor": false,
-            "fullWidth": true,
-            "showBullets": true
-          },
-          "_anchor": "gallery2-c",
-          "articleLayout": false,
-          "allItem": "All"
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -417,10 +364,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "2.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "2.274rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -502,8 +449,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poire1-2000x2749-69-800x1099-80.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poire1-2000x2749-69.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img001-1-2000x2421-800x968.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img001-1-2000x2421.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -512,8 +459,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poire2-2000x2749-43-800x1099-88.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poire2-2000x2749-43.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img004-2000x2479-800x991.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img004-2000x2479.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -522,8 +469,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poire3-2000x2749-65-800x1099-79.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poire3-2000x2749-65.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img006-2000x2408-800x963.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img006-2000x2408.jpg",
                 "caption": "Type caption here",
                 "active": false
               },
@@ -532,13 +479,13 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/poire4-2000x2749-22-800x1099-57.jpg",
-                "image": "@PROJECT_PATH@/assets/images/poire4-2000x2749-22.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img008-2000x2464-800x985.jpg",
+                "image": "@PROJECT_PATH@/assets/images/img008-2000x2464.jpg",
                 "caption": "Type caption here",
                 "active": true
               }
             ],
-            "spacing": "5",
+            "spacing": "3",
             "showText": false,
             "filter": false,
             "bgColor": "fff",
@@ -547,6 +494,59 @@
             "showBullets": true
           },
           "_anchor": "gallery2-1u",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bot1-2000x2749-26-2000x2749-60.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bot1-2000x2749-26.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/botanical2-2000x2749-35-2000x2749-24.jpg",
+                "image": "@PROJECT_PATH@/assets/images/botanical2-2000x2749-35.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/bot3-2000x2749-2-800x1099-30.jpg",
+                "image": "@PROJECT_PATH@/assets/images/bot3-2000x2749-2.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "3",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-c",
           "articleLayout": false,
           "allItem": "All"
         }
@@ -641,10 +641,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.3rem"
+              "font-size": "2.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.408rem"
+              "font-size": "2.274rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -778,6 +778,56 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/img-2000x1333-800x533.jpg",
                 "image": "@PROJECT_PATH@/assets/images/img-2000x1333.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-2-2000x2802-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20170226-2-2000x2802.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-3-2000x2814-800x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20170226-3-2000x2814.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-4-2000x2792-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20170226-4-2000x2792.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2802-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-2000x2802.jpg",
+                "caption": "",
+                "active": false
+              },
+              {
+                "tags": "Awesome",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2783-800x1113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-2000x2783.jpg",
                 "caption": "",
                 "active": true
               }
