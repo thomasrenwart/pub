@@ -67,9 +67,11 @@
               "text-align": "right"
             },
             ".mbr-section-title P": {
-              "text-align": "center",
+              "text-align": "left",
               "font-size": "30px",
-              "color": "#000000"
+              "color": "#000000",
+              "font-family": "'Lora', serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
             }
           },
           "_anchor": "header1-1",
@@ -94,7 +96,7 @@
             "showText": true,
             "showButtons": false
           },
-          "title": "<p><span style=\"font-weight: normal;\">&nbsp; &nbsp;thomas &nbsp; | &nbsp; renwart</span></p><br><p><i><span style=\"font-weight: normal;\">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;<a href=\"textileworks.html\">textile works</a></span>&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;<br></i><i style=\"line-height: 1.1;\"><span style=\"font-weight: normal;\"><a href=\"botanicalstudydrawings.html\">drawings</a></span></i><br><i><span style=\"font-weight: normal;\"><a href=\"writings.html\">writings</a><br><br><a href=\"aboutme.html\">about</a><br><a href=\"contact.html\">contact</a><br></span></i><br><br></p>",
+          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-weight: normal; line-height: 1.1;\">&nbsp;thomas &nbsp; | &nbsp; renwart</span><br></p><br><p><span style=\"font-weight: normal;\"><i>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</i></span><br></p>",
           "text": "",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textileworks.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">drawings</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"writings.html\" data-toolbar=\"-mbrBtnMove\">writings</a>      "
         },
