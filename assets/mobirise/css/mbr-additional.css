@@ -1,17 +1,8 @@
-@import url(https://fonts.googleapis.com/css?family=Droid+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Slabo+27px);
-@import url(https://fonts.googleapis.com/css?family=PT+Serif:400,700);
-@import url(https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700);
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-
-
-
-
-
 
 
 
@@ -423,34 +414,6 @@ h6,
 .scrollToTop_wraper {
   opacity: 0 !important;
 }
-#header1-1 .mbr-section-lead {
-  color: #b8312f;
-}
-#header1-1 .mbr-section-title {
-  color: #28324e;
-  font-family: 'Droid Serif', serif;
-  font-size: 36px;
-  text-align: left;
-}
-#header1-1 .btn {
-  font-family: 'Slabo 27px', serif;
-}
-#header1-1 .mbr-section-title I {
-  font-family: 'PT Serif', serif;
-  color: #000000;
-  text-align: center;
-}
-#header1-1 .mbr-section-title SPAN {
-  font-family: 'Open Sans Condensed', sans-serif;
-  font-size: 48px;
-  text-align: right;
-}
-#header1-1 .mbr-section-title P {
-  text-align: left;
-  font-size: 30px;
-  color: #000000;
-  font-family: 'Lora', serif;
-}
 #menu-w .hide-buttons .nav-btn {
   display: none !important;
 }
@@ -470,11 +433,11 @@ h6,
   font-family: 'Open Sans', sans-serif;
 }
 #menu-w .link {
-  font-size: 1.65rem;
+  font-size: 2.1rem;
 }
 #menu-w .dropdown-item,
 #menu-w .nav-dropdown-sm .link {
-  font-size: 1.787rem;
+  font-size: 2.274rem;
 }
 #menu-w .link:hover,
 #menu-w .dropdown-item:hover,
@@ -512,6 +475,12 @@ h6,
 #menu-w .link[aria-expanded="true"],
 #menu-w .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
+}
+#header1-29 .mbr-section-title {
+  color: #ff0c00;
+}
+#header1-29 .mbr-section-lead {
+  color: #000000;
 }
 
 #msg-box5-10 H3 {

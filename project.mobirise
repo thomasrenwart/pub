@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 81,
+    "uniqCompNum": 82,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -36,70 +36,6 @@
         "order": 1
       },
       "components": [
-        {
-          "_name": "header1",
-          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
-          "_styles": {
-            ".mbr-section-lead": {
-              "color": "#b8312f"
-            },
-            ".mbr-section-title": {
-              "color": "#28324e",
-              "font-family": "'Droid Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Droid+Serif:400,700",
-              "font-size": "36px",
-              "text-align": "left"
-            },
-            ".btn": {
-              "font-family": "'Slabo 27px', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Slabo+27px"
-            },
-            ".mbr-section-title I": {
-              "font-family": "'PT Serif', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=PT+Serif:400,700",
-              "color": "#000000",
-              "text-align": "center"
-            },
-            ".mbr-section-title SPAN": {
-              "font-family": "'Open Sans Condensed', sans-serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,700",
-              "font-size": "48px",
-              "text-align": "right"
-            },
-            ".mbr-section-title P": {
-              "text-align": "left",
-              "font-size": "30px",
-              "color": "#000000",
-              "font-family": "'Lora', serif",
-              "googleLink": "https://fonts.googleapis.com/css?family=Lora:400,700"
-            }
-          },
-          "_anchor": "header1-1",
-          "_params": {
-            "parallax": true,
-            "bgImageRadio": false,
-            "showArrow": false,
-            "bgImage": "@PROJECT_PATH@/assets/images/p1050788-2000x1500.jpg",
-            "bgColor": "#ffffff",
-            "bgColorRadio": true,
-            "bgVideo": {
-              "width": 1280,
-              "height": 720,
-              "url": "https://www.youtube.com/embed/miXMmQMtYtw?rel=0&amp;showinfo=0&autoplay=0&loop=0"
-            },
-            "bgVideoRadio": false,
-            "overlay": true,
-            "overlayOpacity": "0.1",
-            "overlayColor": "#000000",
-            "contentAlign": "center",
-            "showTitle": true,
-            "showText": true,
-            "showButtons": false
-          },
-          "title": "<p>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<span style=\"font-weight: normal; line-height: 1.1;\">&nbsp;thomas &nbsp; | &nbsp; renwart</span><br></p><br><p><span style=\"font-weight: normal;\"><i>&nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</i></span><br></p>",
-          "text": "",
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"textileworks.html\" data-toolbar=\"-mbrBtnMove\">textile works</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"botanicalstudydrawings.html\" data-toolbar=\"-mbrBtnMove\">drawings</a>  <a data-app-btn=\"true\" class=\"btn btn-lg btn-white\" href=\"writings.html\" data-toolbar=\"-mbrBtnMove\">writings</a>      "
-        },
         {
           "_styles": {
             ".hide-buttons .nav-btn": {
@@ -120,10 +56,10 @@
               "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "1.65rem"
+              "font-size": "2.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "1.787rem"
+              "font-size": "2.274rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -158,7 +94,7 @@
           "_anchor": "menu-w",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.65",
+            "fontSize": "2.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -189,6 +125,43 @@
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
           "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"botanicalstudydrawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-29",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "thomas renwart",
+          "text": "textile student",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-title": {
+              "color": "#ff0c00"
+            },
+            ".mbr-section-lead": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     },
@@ -330,7 +303,7 @@
           "_anchor": "menu-1y",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.65",
+            "fontSize": "2.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -482,7 +455,7 @@
           "_anchor": "menu-7",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.65",
+            "fontSize": "2.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -706,7 +679,7 @@
           "_anchor": "menu-7",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.65",
+            "fontSize": "2.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -888,7 +861,7 @@
           "_anchor": "menu-1l",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.65",
+            "fontSize": "2.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
@@ -1072,7 +1045,7 @@
           "_anchor": "menu-1y",
           "_params": {
             "bgColor": "#ffffff",
-            "fontSize": "1.65",
+            "fontSize": "2.1",
             "fontName": {
               "name": "Open Sans",
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
