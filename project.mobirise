@@ -45,13 +45,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#fac51c",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -74,7 +74,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -100,7 +100,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -311,7 +311,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -472,7 +472,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -704,7 +704,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -888,7 +888,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
@@ -1024,7 +1024,7 @@
               "url": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "css": "'Open Sans', sans-serif"
             },
-            "fontColor": "#000000",
+            "fontColor": "#fac51c",
             "fontHoverColor": "@primaryColor",
             "transparent": true,
             "sticky": false,
