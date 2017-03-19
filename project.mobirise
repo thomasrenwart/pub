@@ -133,10 +133,10 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#ffffff"
+              "color": "#fac51c"
             },
             ".mbr-section-lead": {
-              "color": "#ffffff"
+              "color": "#faaf40"
             }
           },
           "_anchor": "header1-29",
@@ -154,8 +154,8 @@
             },
             "bgVideoRadio": true,
             "overlay": true,
-            "overlayOpacity": 0.5,
-            "overlayColor": "#28324e",
+            "overlayOpacity": "0.2",
+            "overlayColor": "#efefef",
             "contentAlign": "center",
             "showTitle": true,
             "showText": true,
