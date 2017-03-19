@@ -133,10 +133,10 @@
           "_name": "header1",
           "_styles": {
             ".mbr-section-title": {
-              "color": "#fac51c"
+              "color": "#000000"
             },
             ".mbr-section-lead": {
-              "color": "#faaf40"
+              "color": "#ffffff"
             }
           },
           "_anchor": "header1-29",
