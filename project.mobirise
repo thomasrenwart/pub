@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "textileworks.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 82,
+    "uniqCompNum": 84,
     "versionPublish": "3.11.1"
   },
   "pages": {
@@ -417,13 +417,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#fac51c",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -446,7 +446,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -513,46 +513,6 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/araignee1-2000x1415-1-2000x1415-40.jpg",
-                "image": "@PROJECT_PATH@/assets/images/araignee1-2000x1415-1.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/araignee2-2000x1415-97-2000x1415-55.jpg",
-                "image": "@PROJECT_PATH@/assets/images/araignee2-2000x1415-97.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/araignee3-2000x1415-93-2000x1415-37.jpg",
-                "image": "@PROJECT_PATH@/assets/images/araignee3-2000x1415-93.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/araignee-4-2000x1415-19-2000x1415-22.jpg",
-                "image": "@PROJECT_PATH@/assets/images/araignee-4-2000x1415-19.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "thumb": "@PROJECT_PATH@/assets/images/p1050788-2000x1500-800x600.jpg",
                 "image": "@PROJECT_PATH@/assets/images/p1050788-2000x1500.jpg",
                 "caption": "",
@@ -573,8 +533,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-2-2000x2802-800x1120.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-20170226-2-2000x2802.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1060116-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1060116-2000x1500.jpg",
                 "caption": "",
                 "active": false
               },
@@ -583,38 +543,8 @@
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-3-2000x2814-800x1125.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-20170226-3-2000x2814.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-4-2000x2792-800x1116.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-20170226-4-2000x2792.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2802-800x1120.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-2000x2802.jpg",
-                "caption": "",
-                "active": false
-              },
-              {
-                "tags": "Awesome",
-                "playVideo": false,
-                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
-                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2783-800x1113.jpg",
-                "image": "@PROJECT_PATH@/assets/images/scan-2000x2783.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/p1050871-2000x1500-800x600.jpg",
+                "image": "@PROJECT_PATH@/assets/images/p1050871-2000x1500.jpg",
                 "caption": "",
                 "active": true
               }
@@ -628,6 +558,142 @@
             "showBullets": true
           },
           "_anchor": "gallery2-r",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-2-2000x2802-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20170226-2-2000x2802.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-3-2000x2814-800x1125.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20170226-3-2000x2814.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-20170226-4-2000x2792-800x1116.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-20170226-4-2000x2792.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2802-800x1120.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-2000x2802.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/scan-2000x2783-800x1113.jpg",
+                "image": "@PROJECT_PATH@/assets/images/scan-2000x2783.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2a",
+          "articleLayout": false,
+          "allItem": "All"
+        },
+        {
+          "_inherit": "gallery1",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery2",
+          "_params": {
+            "paddingTop": 4,
+            "paddingBottom": 4,
+            "images": [
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/araignee-4-2000x1415-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/araignee-4-2000x1415.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/araignee1-2000x1415-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/araignee1-2000x1415.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/araignee2-2000x1415-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/araignee2-2000x1415.jpg",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "tags": "Animated",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/araignee3-2000x1415-800x566.jpg",
+                "image": "@PROJECT_PATH@/assets/images/araignee3-2000x1415.jpg",
+                "caption": "Type caption here",
+                "active": true
+              }
+            ],
+            "spacing": "1",
+            "showText": false,
+            "filter": false,
+            "bgColor": "fff",
+            "filterBgColor": false,
+            "fullWidth": true,
+            "showBullets": true
+          },
+          "_anchor": "gallery2-2b",
           "articleLayout": false,
           "allItem": "All"
         }
