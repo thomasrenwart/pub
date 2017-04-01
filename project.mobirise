@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "textileworks.html",
+    "currentPage": "aboutme.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -29,7 +29,7 @@
       "settings": {
         "main": true,
         "title": "Thomas Renwart",
-        "meta_descr": "Thomas Renwart homepage",
+        "meta_descr": "Thomas, Renwart, homepage",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -228,8 +228,8 @@
               "size": 0
             }
           },
-          "title": "Thomas Renwart",
-          "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>My work mainly consists of series of three, four or more. Repetition is an important part since I'm always looking for the beauty of differences. Textiles combined with photos, scans, writings and sculptures are the most common chapters of my always growing portfolio.<br><br><i>Scroll down for a list of expo's and publications.</i>",
+          "title": "<a href=\"index.html\">Thomas Renwart</a>",
+          "text": "<br>°11-09-1995<br>Visual arts &amp; textiles student at LUCA, School of Arts Ghent<br><br>Textiles is my inspiration, it's my muse. Whenever I sculpt, write, draw I think about textile and its sound, feelings, looks,.... I try to persue the textile idea in all of my works. Next to textiles, botanical aspects are often found as well.&nbsp;<br><br><i>Scroll down for a list of expo's and publications.</i>",
           "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">MORE</a>"
         },
         {
@@ -244,7 +244,7 @@
             "bgColor": "#fff"
           },
           "text1": "Expo's &amp; publications&nbsp;",
-          "text2": "<p>Expo's<br><br></p><p><b>2016</b><br>- KUNSTzINigAALTER, <i>Poeke Castle</i><br>- Kan een zin de titel zijn? <i>In de ruimte, Gent</i></p><p><i><br></i></p><p><b>2017</b></p><p>- pending, <i>more info soon</i></p>",
+          "text2": "<p>Expo's<br><br></p><p><b>2016</b><br>- KUNSTzINigAALTER, <i>Poeke Castle</i><br>- Kan een zin de titel zijn? <i>In de ruimte, Gent</i></p><p><i><br></i></p><p><b>2017</b></p><p>- <b>7 + 1 </b><i>, Kunstacademie Tielt, 21.04.2017 - 21.05.2017</i></p>",
           "text3": "<p>Publications</p><p><br></p><p><b>2014</b></p><p>- *<i>Verdwalen in het bet van alfa</i>*<br>Poetry publication, PoemTata Gent</p><p><br></p><p><br></p>"
         },
         {
@@ -256,21 +256,21 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#fa0806"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#fa0806"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#fa0806",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "2.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "2.274rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -285,7 +285,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#fa0806",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -715,21 +715,21 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#fa0806"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#fa0806"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#fa0806",
-              "googleLink": "https://fonts.googleapis.com/css?family=Merriweather:400,300,700",
-              "font-family": "'Merriweather', serif"
+              "color": "#fac51c",
+              "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
+              "font-family": "'Open Sans', sans-serif"
             },
             ".link": {
-              "font-size": "0.6rem"
+              "font-size": "2.1rem"
             },
             ".dropdown-item, .nav-dropdown-sm .link": {
-              "font-size": "0.650rem"
+              "font-size": "2.274rem"
             },
             ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
               "color": "@primaryColor"
@@ -744,7 +744,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#fa0806",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
@@ -1035,13 +1035,13 @@
               "color": "#ffffff"
             },
             ".navbar-toggler": {
-              "color": "#000000"
+              "color": "#fac51c"
             },
             ".close-icon::before, .close-icon::after": {
-              "background-color": "#000000"
+              "background-color": "#fac51c"
             },
             ".link, .dropdown-item": {
-              "color": "#000000",
+              "color": "#fac51c",
               "googleLink": "https://fonts.googleapis.com/css?family=Open+Sans:400,300,700",
               "font-family": "'Open Sans', sans-serif"
             },
@@ -1064,7 +1064,7 @@
               "background": "#ffffff"
             },
             ".bg-color.transparent .link": {
-              "color": "#000000",
+              "color": "#fac51c",
               "transition": "none"
             },
             ".bg-color.transparent.opened .link": {
