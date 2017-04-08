@@ -1,7 +1,9 @@
-@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
+@import url(https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Montserrat:400,700);
 @import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Open+Sans:400,300,700);
+
 
 
 
@@ -420,16 +422,16 @@ h6,
   color: #ffffff;
 }
 #menu-w .navbar-toggler {
-  color: #fac51c;
+  color: #000000;
 }
 #menu-w .close-icon::before,
 #menu-w .close-icon::after {
-  background-color: #fac51c;
+  background-color: #000000;
 }
 #menu-w .link,
 #menu-w .dropdown-item {
-  color: #fac51c;
-  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #menu-w .link {
   font-size: 2.1rem;
@@ -461,7 +463,7 @@ h6,
   background: #ffffff;
 }
 #menu-w .bg-color.transparent .link {
-  color: #fac51c;
+  color: #000000;
   transition: none;
 }
 #menu-w .bg-color.transparent.opened .link {
@@ -476,10 +478,11 @@ h6,
   color: #c0a375!important;
 }
 #header1-29 .mbr-section-title {
-  color: #000000;
+  color: #ff0703;
+  font-family: 'Lora', serif;
 }
 #header1-29 .mbr-section-lead {
-  color: #ffffff;
+  color: #000000;
 }
 
 #msg-box5-10 H3 {
