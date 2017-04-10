@@ -478,10 +478,13 @@ h6,
   color: #c0a375!important;
 }
 #header1-29 .mbr-section-title {
-  color: #ff0703;
+  color: #000000;
   font-family: 'Lora', serif;
 }
 #header1-29 .mbr-section-lead {
+  color: #000000;
+}
+#header1-29 .mbr-section-lead SPAN {
   color: #000000;
 }
 
@@ -565,16 +568,16 @@ h6,
   color: #ffffff;
 }
 #menu-7 .navbar-toggler {
-  color: #fac51c;
+  color: #000000;
 }
 #menu-7 .close-icon::before,
 #menu-7 .close-icon::after {
-  background-color: #fac51c;
+  background-color: #000000;
 }
 #menu-7 .link,
 #menu-7 .dropdown-item {
-  color: #fac51c;
-  font-family: 'Open Sans', sans-serif;
+  color: #000000;
+  font-family: 'Source Sans Pro', sans-serif;
 }
 #menu-7 .link {
   font-size: 2.1rem;
@@ -606,7 +609,7 @@ h6,
   background: #ffffff;
 }
 #menu-7 .bg-color.transparent .link {
-  color: #fac51c;
+  color: #000000;
   transition: none;
 }
 #menu-7 .bg-color.transparent.opened .link {
