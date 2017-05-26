@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "index.html",
+    "currentPage": "Privacy ",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.9.2",
-    "uniqCompNum": 85,
+    "uniqCompNum": 86,
     "versionPublish": "3.11.1",
     "favicon": "",
     "noImageResize": "true",
@@ -128,7 +128,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -344,7 +344,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         }
       ]
     },
@@ -505,7 +505,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -813,7 +813,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -997,7 +997,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_tags": [
@@ -1133,7 +1133,7 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
         },
         {
           "_inherit": "gallery1",
@@ -1143,7 +1143,7 @@
           "_name": "gallery2",
           "_params": {
             "paddingTop": 4,
-            "paddingBottom": 4,
+            "paddingBottom": "1",
             "images": [
               {
                 "tags": "Animated",
@@ -1347,7 +1347,45 @@
             }
           },
           "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"https://mobirise.com\" data-app-placeholder=\"Type Brand Name\">MOBIRISE</a>",
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html\">home</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"textileworks.html\">textile works</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"drawings.html\">drawings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"writings.html\">writings</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"aboutme.html\" aria-expanded=\"false\">about me</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"contact.html\" aria-expanded=\"false\">contact<br></a><a data-app-btn=\"true\" class=\"nav-link link\" href=\"Privacy.html\" aria-expanded=\"false\" style=\"display: inline !important;\">privacy <br>&nbsp; &nbsp; policy<br></a><br></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-black-outline btn-black\" href=\"https://mobirise.com/\">DOWNLOAD</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header1",
+          "_anchor": "header1-2d",
+          "_params": {
+            "parallax": true,
+            "bgImageRadio": false,
+            "showArrow": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#000",
+            "contentAlign": "center",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": false
+          },
+          "title": "Privacy Policy",
+          "text": "<br>Last updated: 26.05.2017<br>This page informs you of our policies regarding the collection, use and disclosure of<br>Personal Information we receive from users of the Site.<br>We use your Personal Information only for providing and improving the Site. By using the Site, you<br>agree to the collection and use of information in accordance with this policy.<br>Information Collection And Use<br>While using our Site, we may ask you to provide us with certain personally identifiable information<br>that can be used to contact or identify you. Personally identifiable information may include, but is not<br>limited to your name (\"Personal Information\").<br>Log Data<br>Like many site operators, we collect information that your browser sends whenever you visit our Site<br>(\"Log Data\").<br>This Log Data may include information such as your computer's Internet Protocol (\"IP\") address,<br>browser type, browser version, the pages of our Site that you visit, the time and date of your visit,<br>the time spent on those pages and other statistics.<br>In addition, we may use third party services such as Google Analytics that collect, monitor and<br>analyze this …<br>The Log Data section is for businesses that use analytics or tracking services in websites or<br>apps, like Google Analytics. For the full disclosure section, create your own Privacy Policy.<br>Communications<br>We may use your Personal Information to contact you with newsletters, marketing or promotional<br>materials and other information that ...<br>The Communications section is for businesses that may contact users via email (email<br>newsletters) or other methods. For the full disclosure section, create your own Privacy Policy.<br>Cookies<br>Cookies are files with small amount of data, which may include an anonymous unique identifier.<br>Cookies are sent to your browser from a web site and stored on your computer's hard drive.<br>Like many sites, we use \"cookies\" to collect information. You can instruct your browser to refuse all<br>cookies or to indicate when a cookie is being sent. However, if you do not accept cookies, you may<br>not be able to use some portions of our Site.<br>Security<br>The security of your Personal Information is important to us, but remember that no method of<br>transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to<br>use commercially acceptable means to protect your Personal Information, we cannot guarantee its<br>absolute security.<br>Changes To This Privacy Policy<br>This Privacy Policy is effective as of (add date) and will remain in effect except with respect to any<br>changes in its provisions in the future, which will be in effect immediately after being posted on this<br>page.<br>We reserve the right to update or change our Privacy Policy at any time and you should check this<br>Privacy Policy periodically. Your continued use of the Service after we post any modifications to the<br>Privacy Policy on this page will constitute your acknowledgment of the modifications and your<br>consent to abide and be bound by the modified Privacy Policy.<br>If we make any material changes to this Privacy Policy, we will notify you either through the email<br>address you have provided us, or by placing a prominent notice on our website.<br>Contact Us<br>If you have any questions about this Privacy Policy, please contact us..",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-primary\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">DOWNLOAD FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\">DOWNLOAD FOR MAC</a>",
+          "_styles": {
+            ".mbr-section-lead": {
+              "text-align": "left",
+              "color": "#000000"
+            },
+            ".mbr-section-title": {
+              "color": "#000000"
+            }
+          }
         }
       ]
     }

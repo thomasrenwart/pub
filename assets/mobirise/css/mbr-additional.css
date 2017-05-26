@@ -882,3 +882,10 @@ h6,
 #menu-2c .dropdown-item[aria-expanded="true"] {
   color: #c0a375!important;
 }
+#header1-2d .mbr-section-lead {
+  text-align: left;
+  color: #000000;
+}
+#header1-2d .mbr-section-title {
+  color: #000000;
+}
