@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "Privacy ",
+    "currentPage": "Privacy.html",
     "name": "My Site",
     "theme": {
       "name": "mobirise3",
@@ -1253,7 +1253,7 @@
         }
       ]
     },
-    "Privacy ": {
+    "Privacy.html": {
       "settings": {
         "title": "",
         "meta_descr": "Privacy"
