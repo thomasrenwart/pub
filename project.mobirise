@@ -1255,8 +1255,8 @@
     },
     "Privacy.html": {
       "settings": {
-        "title": "",
-        "meta_descr": "Privacy"
+        "title": "Privacy Policy",
+        "meta_descr": "Privacy, policy"
       },
       "components": [
         {
